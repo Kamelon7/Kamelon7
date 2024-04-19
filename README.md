@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 💼 I'm currently working at [Cerpus](https://cerpus.com/)  
 🙌 Collaborating on the [Edlib repo](https://github.com/cerpus/Edlib)  
-🎓 I'm currently learning Python, Markdown and managing Docusaurus websites  
+⌨️ Most of my code is Terraform configurations, Markdown texts and deploy scripts.
